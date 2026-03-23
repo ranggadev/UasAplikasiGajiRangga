@@ -34,7 +34,7 @@ public class MainProgram {
             System.out.println("  5. Lihat Gaji Beberapa Pegawai");
             System.out.println("  0. Keluar");
             System.out.println("----------------------------------------------------");
-            System.out.print("Pilih menu: ");
+            System.out.print("Pilih menu : ");
             
             int pilihan = scanner.nextInt();
             scanner.nextLine();
